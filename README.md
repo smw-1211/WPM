@@ -4,7 +4,7 @@ This is a typing speed application which when used helps to identify the speed a
 
 ## Project Description.
 
-![live-project]!(./assets/live-project.png)
+![live-project](./assets/live-project.png)
 
 > This project has 3 different levels - **Beginner**, **Amateur** & **Pro**. 
 
