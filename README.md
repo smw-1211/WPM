@@ -10,4 +10,4 @@ This is a typing speed application which when used helps to identify the speed a
 
 This is a time-bound evaluation with either 30s or 60s time limit.
 
-> Examine your typing speed over the three levels and make sure you're aiming for beginner-level accuracy in the pro stage. This fosters a competitive atmosphere and a drive to achieve notable accuracy and speed.
+> Get your typing speed examined over three levels and make sure you're aiming for beginner-level accuracy in the pro stage. This fosters a competitive atmosphere and a drive to achieve notable accuracy and speed.
