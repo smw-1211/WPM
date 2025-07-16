@@ -8,6 +8,6 @@ This is a typing speed application which when used helps to identify the speed a
 
 > This project has 3 different levels - **Beginner**, **Amateur** & **Pro**. 
 
-This is a time-bound evaluation with either 30s or 60s time limit.
+This is a time-bound evaluation with time duration of 30s and 60s.
 
 > Get your typing speed examined over three levels and make sure you're aiming for beginner-level accuracy in the pro stage. This fosters a competitive atmosphere and a drive to achieve notable accuracy and speed.
